@@ -2,7 +2,7 @@
 integrate Torus login with Ethereum's pet-shop-tutorial
 See Ethereum’s pet-shop-tutorial at https://truffleframework.com/tutorials/pet-shop
 
-##Instructions:
+## Instructions:
 if you have not installed truffle, run the following line on your console.
 ```
 npm install -g truffle
@@ -15,7 +15,7 @@ In Chrome browser, download extension Tampermonkey.
 3.check for userscript updates and remember to enable TORUS USER SCRIPT in TamperMonkey.
 cd into repository and run npm run dev.
 
-##FAQ:
+## FAQ:
 1.	Torus is unable to function properly due to two web3 injections. 
 Check to make sure Metamask is disabled. Refresh the webpage.
 2.	I get an error when trying to process a transaction.
