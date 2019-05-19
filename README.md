@@ -12,8 +12,8 @@ Gitclone repository.\
 In Chrome browser, download extension Tampermonkey.
 1. create a new user script 
 2. add the script from ‘app.tor.us/embed.user.js’ and paste it in the new user script you created in step 1. Rename script to TORUS USER SCRIPT.
-3. check for userscript updates and remember to enable TORUS USER SCRIPT in TamperMonkey.
-\cd into repository and run ```npm run dev.```
+3. check for userscript updates and remember to enable TORUS USER SCRIPT in TamperMonkey.\
+cd into repository and run ```npm run dev.```
 
 
 
