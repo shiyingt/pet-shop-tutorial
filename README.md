@@ -31,3 +31,5 @@ You can access history tab in the GUI to see past transactions. Another way woul
 It takes time to include the transactions into a block. Keep calm and try again after 30 seconds.
 
 
+cr:
+big thanks to https://github.com/chaitanyapotti for guidance
